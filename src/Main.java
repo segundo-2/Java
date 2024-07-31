@@ -8,6 +8,7 @@ public class Main {
 
     }
 
+
     // Empty
     public static void myOwnFunction(){
 
