@@ -16,6 +16,8 @@ public class Main {
     // Accept 2 int
     public static void myFunction(int num1, int num2){
 
+        System.out.println(num1 + num2);
+
 
     }
 
