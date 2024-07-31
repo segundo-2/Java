@@ -12,9 +12,7 @@ public class Main {
             String txt = "Hello";
             String tt;
 
-        System.out.println("test 1");
-        System.out.println("test 1 = "+ nmu);
-        System.out.println(dob+" " + ""+nmu);
+
 
 
     }
