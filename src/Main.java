@@ -6,6 +6,11 @@ public class Main {
             int num ;
             double dob = 7.5;
             double dob1;
+            boolean f;
+            boolean t='True' ;
+            String txt = "Hello";
+            String tt;
+
 
     }
 }
