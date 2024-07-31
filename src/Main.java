@@ -7,9 +7,14 @@ public class Main {
             double dob = 7.5;
             double dob1;
             boolean f;
-            boolean t='True' ;
+
+            boolean t= true ;
             String txt = "Hello";
             String tt;
+
+        System.out.println("test 1");
+        System.out.println("test 1 = "+ nmu);
+        System.out.println(dob + nmu);
 
 
     }
