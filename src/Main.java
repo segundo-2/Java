@@ -8,7 +8,6 @@ public class Main {
 
     }
 
-
     // Empty
     public static void myOwnFunction(){
 
@@ -21,8 +20,11 @@ public class Main {
     }
 
     // Accept 2 String
-    public static void myFun(String name1, String name2){
-
+    public static void myFun(String name1, String name2) {
 
     }
+    public static void My(String s1, int nmu){
+
+        }
+
 }
