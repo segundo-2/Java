@@ -4,6 +4,12 @@ public class Main {
 
 
 
+        // to call the class
+        Loly anything = new Loly();
+
+        // to call the funcation
+        anything.Func(2,3);
+
 
     }
 
