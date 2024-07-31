@@ -27,5 +27,16 @@ public class Main {
         }
 
 
+        if(dob>=7.1){
+            System.out.println("the number is greater than 7.1");
+
+        } else if (dob==7.1) {
+            System.out.println("the number equal 7.1");
+
+        }
+        else{
+            System.out.println("the number less than 7.1");
+        }
+
     }
 }
