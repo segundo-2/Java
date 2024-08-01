@@ -7,7 +7,6 @@ public class Loly {
 
         Car car = new Car();
 
-
         return car;
     }
 
