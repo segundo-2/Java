@@ -24,8 +24,11 @@ public class Main {
         System.out.println("The text you enterd is "+txt);
 
 
+        // this one
+        if(txt.equals("hamed")){
+            System.out.println("hello");
 
-
+        }
     }
 
 }
