@@ -1,8 +1,14 @@
 
 
 public class Loly {
-    public int func(int n1){
 
+
+    public Car func(int n1){
+
+        Car car = new Car();
+
+
+        return car;
     }
 
 
