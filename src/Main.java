@@ -12,6 +12,13 @@ public class Main {
         d=something.nextDouble();
         System.out.println("Enter any text: ");
         txt=something.next();
+        if(n>0){
+            System.out.println("the number is positive");
+        }
+        else if(n<0){
+            System.out.println("the number is negative");
+        }
+        else{}
         System.out.println("The number you enterd is "+n);
         System.out.println("The double number you enterd is "+d);
         System.out.println("The text you enterd is "+txt);
