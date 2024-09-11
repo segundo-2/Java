@@ -5,16 +5,9 @@ public class Main {
     public static void main(String[] args) {
         int [] n= {1,2,3,4};
 
-        int l=n.length;
-//        Arraysrray(n);
         arr(n);
     }
-    public static <n> void Arraysrray(Arrays n){
-        for(int i=1; i<=4; i++){
-            System.out.println(i+i);
 
-        }
-    }
     public static void arr(int[] n){
         int i;
         int c=0;
