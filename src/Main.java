@@ -15,13 +15,14 @@ public class Main {
 
         }
     }
-    public void static int arr(int[] n){
+    public static void arr(int[] n){
         int i;
         int c=0;
-        for(i=1; i<n.length; i++){
+        for(i=1; i<=n.length; i++){
             c=c+i;
             System.out.println(c);
         }
         int av=c/n.length;
+        System.out.println("the average is "+av);
     }
 }
