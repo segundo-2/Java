@@ -1,34 +1,27 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner something = new Scanner(System.in);
-        int n;
-        double d;
-        String txt;
-        System.out.println("Enter number: ");
-        n=something.nextInt();
-        System.out.println("Enter a double number: ");
-        d=something.nextDouble();
-        System.out.println("Enter any text: ");
-        txt=something.next();
-        if(n>0){
-            System.out.println("the number is positive");
-        }
-        else if(n<0){
-            System.out.println("the number is negative");
-        }
-        else{}
-        System.out.println("The number you enterd is "+n);
-        System.out.println("The double number you enterd is "+d);
-        System.out.println("The text you enterd is "+txt);
+        int [] n= {1,2,3,4};
 
-
-        // this one
-        if(txt.equals("hamed")){
-            System.out.println("hello");
+        int l=n.length;
+//        Arraysrray(n);
+        arr(n);
+    }
+    public static <n> void Arraysrray(Arrays n){
+        for(int i=1; i<=4; i++){
+            System.out.println(i+i);
 
         }
     }
-
+    public void static int arr(int[] n){
+        int i;
+        int c=0;
+        for(i=1; i<n.length; i++){
+            c=c+i;
+            System.out.println(c);
+        }
+        int av=c/n.length;
+    }
 }
